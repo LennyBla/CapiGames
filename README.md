@@ -1,0 +1,1 @@
+This is a project created for college, with no commercial purposes, and it was based on another project whose author is called GeekProgin.
